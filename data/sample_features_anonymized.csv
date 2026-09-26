@@ -1,0 +1,13 @@
+userfile_name,user_id,user_screen_name,user_followers_count,user_friends_count,user_statuses_count,total_handles_mentioned,possible_impressions,avg_tweets_per_day,avg_tweet_favorite_count,avg_tweet_reply_count,avg_tweet_retweet_count,avg_text_sentiment,avg_engagement_rate,avg_emojis_count,most_active_period,most_active_day,diagnosis,user_group,o,c,e,a,n
+user_demo_001,anon_1001,anon_user_001,186,936,10598,13,1971228,2.222,1.138,0.625,0.038,0.196,0.968,2.263,Midnight,Sunday,Adhd,diagnosed,0.002,0.0001,-0.0001,0.0006,-0.0021
+user_demo_002,anon_1002,anon_user_002,235,426,11310,324,2657850,2.602,0.304,0.129,0.019,0.104,0.194,0.620,Morning,Wednesday,Adhd,diagnosed,0.0006,-0.0002,0.0012,0.0010,-0.0025
+user_demo_003,anon_1003,anon_user_003,554,1501,33434,1723,18522436,33.605,34.046,0.714,0.536,0.004,6.378,0.013,Midnight,Friday,Bipolar,diagnosed,0.0007,-0.0001,0.0003,-0.0003,-0.0010
+user_demo_004,anon_1004,anon_user_004,7312,328,16842,463,123148704,5.477,42.869,1.109,14.396,0.290,0.800,0.594,Midnight,Wednesday,Depression,diagnosed,0.0006,-0.0002,0.0004,0.0026,-0.0003
+user_demo_005,anon_1005,anon_user_005,562,466,149713,93,84138706,15.594,1.515,0.597,0.026,0.226,0.382,0.349,Morning,Friday,Ptsd,diagnosed,0.0003,-0.0003,0.0008,-0.0001,-0.0014
+user_demo_006,anon_1006,anon_user_006,840,961,61529,773,51684360,11.741,6.930,0.418,0.086,0.133,0.887,0.619,Midnight,Sunday,Ocd,diagnosed,0.0005,-0.0002,0.0011,-0.0002,-0.0020
+user_demo_007,anon_1007,anon_user_007,2595,674,14454,799,37508130,28.738,3.455,1.253,0.331,0.317,0.196,0.866,Morning,Tuesday,Anxiety,diagnosed,0.0009,0.0011,0.0007,0.0037,-0.0001
+user_demo_008,anon_1008,anon_user_008,412,520,8910,210,1234500,4.120,2.150,0.420,0.050,0.115,0.450,0.320,Afternoon,Monday,Asd,diagnosed,-0.0004,-0.0003,0.0002,-0.0001,-0.0012
+user_demo_009,anon_1009,anon_user_009,620,310,14200,180,2450000,6.200,3.800,0.610,0.120,-0.050,0.620,0.150,Morning,Tuesday,Schizophrenia,diagnosed,0.0001,-0.0004,0.0001,-0.0005,-0.0030
+user_demo_010,anon_1010,anon_user_010,310,480,9500,240,1100000,3.500,1.900,0.350,0.040,0.020,0.410,0.220,Midnight,Saturday,Eating,diagnosed,0.0002,-0.0002,0.0003,-0.0002,-0.0018
+user_demo_011,anon_1011,anon_user_011,1200,850,22400,610,15400000,8.400,5.200,0.890,0.210,0.340,1.120,0.850,Afternoon,Tuesday,Control,control,0.0015,0.0008,0.0014,0.0019,0.0002
+user_demo_012,anon_1012,anon_user_012,980,720,18100,540,11200000,7.100,4.600,0.740,0.180,0.310,0.980,0.720,Evening,Wednesday,Control,control,0.0012,0.0006,0.0011,0.0015,0.0001

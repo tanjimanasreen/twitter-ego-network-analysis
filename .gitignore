@@ -1,0 +1,35 @@
+# Environments & IDEs
+.idea/
+.vscode/
+.env
+.DS_Store
+*.swp
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Data & Large Files (Privacy, Ethics & Git Size)
+English/
+Spanish/
+English.zip
+Spanish.zip
+diagnosed-network-raw/
+control-network-raw/
+data/raw/
+data/interim/
+data/processed/
+*.csv
+!data/sample_features_anonymized.csv
+*.zip
+*.tar.gz
+*.parquet
+
+# Jupyter Notebooks & Profiling Reports
+.ipynb_checkpoints/
+reports/
+*.html
