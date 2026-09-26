@@ -11,23 +11,27 @@
 
 ---
 
-## 📌 Overview
+## 📖 About the Project
 
-This project provides an end-to-end computational social science pipeline to analyze **behavioral characteristics, temporal posting habits, linguistic traits, and ego-network structures** of Twitter users with self-reported mental health conditions compared to a baseline control cohort.
+This project conducts an empirical investigation into the interaction dynamics, behavioral traits, and follower network structures of online communities discussing mental health. Developed as a research technical report within the **Department of Computing Science at the University of Alberta**, the study investigates whether social support networks on Twitter/X exhibit structural **follower homogeneity**—the tendency of users to form denser, tightly clustered interaction modules around shared health experiences.
 
-The research studies **3,246 users** (1,543 diagnosed across 9 psychiatric conditions and 1,703 control users) and **1,133 ego-network connection graphs** to test whether individuals experiencing specific conditions form distinct, more tightly clustered social networks (follower homogeneity).
+### Core Research Questions
+1. **Network Topology & Homogeneity:** Do users with self-reported mental health conditions form more tightly clustered ego-networks (higher modularity, lower diameter) compared to matched control peers?
+2. **Temporal & Engagement Dynamics:** How do active hours of the day (e.g., late-night activity) and interaction frequency differ across specific psychiatric diagnoses?
+3. **Psycholinguistic Profiling:** Can Big-5 personality trait extraction (OCEAN) and sentiment analysis capture behavioral patterns that distinguish diagnosed subgroups?
 
-### Investigated Cohorts (9 Diagnosed Sub-Groups + Control)
-* ADHD
-* Anxiety
-* Autism Spectrum Disorder (ASD)
-* Bipolar Disorder
-* Depression
-* Eating Disorders
-* Obsessive-Compulsive Disorder (OCD)
-* Post-Traumatic Stress Disorder (PTSD)
-* Schizophrenia
-* Control (Matched non-diagnosed users)
+### Studied Cohorts (3,246 Users Across 10 Groups)
+The dataset comprises longitudinal activity from **3,246 users** (1,543 diagnosed and 1,703 matched controls) across 9 clinical sub-groups:
+* **ADHD** (Attention Deficit Hyperactivity Disorder)
+* **Anxiety**
+* **ASD** (Autism Spectrum Disorder)
+* **Bipolar Disorder**
+* **Depression**
+* **Eating Disorders**
+* **OCD** (Obsessive-Compulsive Disorder)
+* **PTSD** (Post-Traumatic Stress Disorder)
+* **Schizophrenia**
+* **Control** (Baseline cohort without self-reported diagnoses)
 
 ---
 
