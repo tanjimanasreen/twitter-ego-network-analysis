@@ -2,12 +2,12 @@
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Research Paper](https://img.shields.io/badge/Paper-Download%20PDF-red.svg)](paper/Analyzing_Twitter_Follower_Homogeneity.pdf)
+[![Technical Report](https://img.shields.io/badge/Technical%20Report-Download%20PDF-red.svg)](report/Analyzing_Twitter_Follower_Homogeneity.pdf)
 [![Data Compliance](https://img.shields.io/badge/Data%20Policy-X%20ToS%20%26%20Ethics%20Compliant-brightgreen.svg)](docs/ethics_and_compliance.md)
 
 > **Analyzing Follower Homogeneity and Interaction Dynamics Among Diagnosed and Non-Diagnosed Social Media Cohorts**  
 > *Author:* Tanjima Nasreen Jenia  
-> *Full Paper:* [`paper/Analyzing_Twitter_Follower_Homogeneity.pdf`](paper/Analyzing_Twitter_Follower_Homogeneity.pdf)
+> *Technical Report:* [`report/Analyzing_Twitter_Follower_Homogeneity.pdf`](report/Analyzing_Twitter_Follower_Homogeneity.pdf)
 
 ---
 
@@ -62,8 +62,8 @@ Using **Gephi** for community detection and network topology modeling, we analyz
 
 ```text
 twitter-ego-network-analysis/
-├── paper/
-│   └── Analyzing_Twitter_Follower_Homogeneity.pdf  # 20-page research paper
+├── report/
+│   └── Analyzing_Twitter_Follower_Homogeneity.pdf  # 20-page research technical report
 ├── docs/
 │   ├── dataset_glossary.md    # 37 extracted features and descriptions
 │   └── ethics_and_compliance.md # Compliance with X API ToS & data ethics
@@ -140,11 +140,12 @@ In strict adherence to the **X (Twitter) Developer Agreement & Policy** and ethi
 If you reference this work or utilize the pipeline in your research, please cite:
 
 ```bibtex
-@misc{jenia2023twitterhomogeneity,
+@techreport{jenia2023twitterhomogeneity,
   title={Analyzing Twitter Follower Homogeneity and Interactions among Diagnosed and Non-Diagnosed Users with Mental Health Conditions},
   author={Jenia, Tanjima Nasreen},
   year={2023},
-  note={Research Project, Department of Computer Science},
+  institution={Department of Computer Science},
+  type={Technical Report},
   url={https://github.com/tanjimanasreen/twitter-ego-network-analysis}
 }
 ```

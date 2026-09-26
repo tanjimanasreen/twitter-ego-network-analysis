@@ -25,4 +25,4 @@ Research exploring mental health discourse on social media requires ethical data
 
 ## 3. Reproduction & Academic Inquiries
 
-Researchers seeking access to anonymized feature tables or validation scripts for replication purposes are invited to consult the research paper located at [`paper/Analyzing_Twitter_Follower_Homogeneity.pdf`](../paper/Analyzing_Twitter_Follower_Homogeneity.pdf) or contact the author.
+Researchers seeking access to anonymized feature tables or validation scripts for replication purposes are invited to consult the technical report located at [`report/Analyzing_Twitter_Follower_Homogeneity.pdf`](../report/Analyzing_Twitter_Follower_Homogeneity.pdf) or contact the author.
