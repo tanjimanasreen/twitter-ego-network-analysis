@@ -13,7 +13,7 @@
 
 ## 📖 About the Project
 
-This project conducts an empirical investigation into the interaction dynamics, behavioral traits, and follower network structures of online communities discussing mental health. Developed as a research technical report within the **Department of Computing Science at the University of Alberta**, the study investigates whether social support networks on Twitter/X exhibit structural **follower homogeneity**—the tendency of users to form denser, tightly clustered interaction modules around shared health experiences.
+This project conducts an empirical investigation into the interaction dynamics, behavioral traits, and follower network structures of online communities discussing mental health. Specifically, the study investigates whether social support networks on Twitter/X exhibit structural **follower homogeneity**—the tendency of users to form denser, tightly clustered interaction modules around shared health experiences.
 
 ### Core Research Questions
 1. **Network Topology & Homogeneity:** Do users with self-reported mental health conditions form more tightly clustered ego-networks (higher modularity, lower diameter) compared to matched control peers?
@@ -56,8 +56,8 @@ Using **Gephi** for community detection and network topology modeling, we analyz
 ---
 
 ### 2. Behavioral & Temporal Insights
-* **Active Posting Period:** Diagnosed users displayed a statistically significant ($p = 0.00022$, $\chi^2 = 21.827$) shift toward late-night and midnight posting (1:00 AM – 4:59 AM) compared to the control group.
-* **Linguistic & Trait Correlations:** Point-biserial correlation analysis revealed statistically significant associations between self-reported diagnosis and higher Neuroticism ($r = 0.2098, p = 1.28 \times 10^{-33}$) and Conscientiousness trait scores ($r = 0.148, p = 2.01 \times 10^{-17}$).
+* **Active Posting Period:** Diagnosed users displayed a statistically significant ($p < 0.001$, $\chi^2 = 21.827$) shift toward late-night and midnight posting (1:00 AM – 4:59 AM) compared to the control group.
+* **Linguistic & Trait Correlations:** Point-biserial correlation analysis revealed statistically significant associations between self-reported diagnosis and higher Neuroticism ($r = 0.2098, p < 0.001$) and Conscientiousness trait scores ($r = 0.148, p < 0.001$).
 * **Unsupervised Clustering:** Unsupervised K-Means and Agglomerative clustering repeatedly grouped users with ADHD, PTSD, Depression, and Schizophrenia into shared clusters based on interaction density and linguistic scores.
 
 ---
