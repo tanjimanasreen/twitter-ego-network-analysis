@@ -144,7 +144,7 @@ If you reference this work or utilize the pipeline in your research, please cite
   title={Analyzing Twitter Follower Homogeneity and Interactions among Diagnosed and Non-Diagnosed Users with Mental Health Conditions},
   author={Jenia, Tanjima Nasreen},
   year={2023},
-  institution={Department of Computer Science},
+  institution={Department of Computing Science, University of Alberta},
   type={Technical Report},
   url={https://github.com/tanjimanasreen/twitter-ego-network-analysis}
 }
