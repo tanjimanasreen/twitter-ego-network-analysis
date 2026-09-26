@@ -33,3 +33,12 @@ data/processed/
 .ipynb_checkpoints/
 reports/
 *.html
+
+# Legacy root files (migrated to notebooks/, paper/, and docs/)
+/Analysis.ipynb
+/Pipeline.ipynb
+/Prepare-Network-Users.ipynb
+/twitter-scraper.ipynb
+/1-README.pdf
+/Dataset-glossary.pdf
+/Analyzing Twitter Follower Homogeneity and Interactions among Diagnosed and Non-Diagnosed Users with Mental Health Conditions.pdf
